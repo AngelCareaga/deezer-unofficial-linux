@@ -1,4 +1,4 @@
-It is a project based on (https://aur.archlinux.org/packages/deezer/.
+It is a project based on (https://aur.archlinux.org/packages/deezer/).
 
 # Deezer Unofficial - Linux
 
@@ -11,6 +11,8 @@ Copyright (c) 2006-2018 Deezer S.A.
 - ### p7zip
 
 ## Installing
+
+### **ONLY TESTED IN FEDORA (FOR THE MOMENT)**
 
 Run as root
 
