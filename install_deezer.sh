@@ -69,6 +69,8 @@ verifyRequeriments(){
 
     # Verify for Fedora
     if [ $OSTemp = 'fedora' ]; then
+        # Installing others
+        pkcon install libXScrnSaver
         resNode=$(rpm -qa | grep -i nodejs | xargs)
         resElectron=$(npm list -g --depth 0 | grep electron | xargs)
         resp7zip=$(rpm -qa | grep -i p7zip | xargs)
