@@ -7,7 +7,7 @@
 
 #METADATA
 pkgname="deezer"
-pkgver=4.0.5
+pkgver=4.1.2
 pkgrel=1
 pkgdesc="A proprietary music streaming service"
 arch=('x86_64')
